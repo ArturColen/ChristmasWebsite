@@ -13,4 +13,4 @@ The main function of the site is to share the meaning of Christmas with friends,
 * `JavaScript with Rellax, GSAP and ScrollReveal:` Page animation and dynamicit
 
 # 📁 Project access
-You can [access the source code](https://github.com/ArturColen/ChristmasWebsite) or [view the hosted page](https://arturcolen.github.io/ChristmasWebsite/).
+You can [access the source code](https://github.com/ArturColen/ChristmasWebsite) or [view the hosted page](https://arturcolen.github.io/ChristmasWebsite/)
