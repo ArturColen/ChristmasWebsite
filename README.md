@@ -9,7 +9,10 @@ The main function of the site is to share the meaning of Christmas with friends.
 ## 💻 Technologies used 
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): page structuring, accessibility and semantics
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): page styling and responsiveness
-* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): dynamicity of the page and animation
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): dynamicity of the page 
+* [Parallax](https://simpleparallax.com/): dynamic scrolling effects
+* [GSAP](https://greensock.com/gsap/): stylize animations
+* [ScrollReveal](https://scrollrevealjs.org/): display page content in animated form
 
 ## 📁 Project access
 You can view the hosted page by clicking [here](https://arturcolen.github.io/ChristmasWebsite/).
